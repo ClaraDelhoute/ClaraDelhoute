@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As a computer science student, I am learning different languages and I share some of my exercises on my github. 
+You can follow my evolution. 
